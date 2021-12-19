@@ -1,5 +1,4 @@
 import react , {useState} from 'react'
-import resolve from 'resolve';
 import './App.css';
 const api_url = "https://api.nasa.gov/planetary/apod?api_key=ue7hsRW5Us1KxiKZYMRl2J6LnioOA1QVrpT9dGSK"
 
