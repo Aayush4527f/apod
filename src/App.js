@@ -24,7 +24,6 @@ function App() {
     setExplanation(data.explanation)
     setCopyright(data.copyright)
     console.log(data)
-  
 })
   }
 setTimeout(() => {
